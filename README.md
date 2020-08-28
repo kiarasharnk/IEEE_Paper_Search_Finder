@@ -1,6 +1,6 @@
 # IEEE_Paper_Search_Finder
 
- Application that collect IEEE Papers
+## Application that collect IEEE Papers
 This app scrapes the IEEE Xplore website based on four inputs from the user, which operates on Windows and Mac OS.
  
 It first opens a browser and inserts the inputs and then collects and delivers an organized CSV output containing the published paper based on the inputs.
@@ -15,3 +15,5 @@ Link: https://www.youtube.com/watch?v=g78Mbcy_l-E
 
 #python #tkinter #selenium #webscrapper #pyinstaller
 
+## How it works?
+![IEEE-gif](Video.gif)
