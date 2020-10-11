@@ -1,4 +1,4 @@
-# IEEE_Paper_Search_Finder
+# IEEE_Paper_Search_Refiner
 
 ### Application that collect IEEE Papers
 This app scrapes the IEEE Xplore website based on four inputs from the user, which operates on Windows and Mac OS.
